@@ -2,4 +2,4 @@
 
 I'm inordinately proud of this commit: https://github.com/torvalds/linux/commit/e1cf4aa
 
-<img src="[https://github.com/favicon.ico](https://github.com/pierwill/pierwill/blob/main/W00034558-2.jpg)" width="512">
+<img src="https://github.com/pierwill/pierwill/blob/main/W00034558-2.jpg" width="512">
