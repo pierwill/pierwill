@@ -5,4 +5,6 @@
 Former Rust contributor. Contributions I'm proud of: 
 
 - https://github.com/rust-lang/rust/pull/92442
+- https://github.com/QubesOS/qubes-doc/pull/847
+- https://github.com/freedomofpress/securedrop-workstation/pull/445
 - https://github.com/torvalds/linux/commit/e1cf4aa (lol)
